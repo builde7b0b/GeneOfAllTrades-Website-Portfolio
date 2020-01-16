@@ -1,4 +1,5 @@
 # GeneOfAllTrades-Website-Portfolio
-Resume / Portfolio &amp; Hub for Eugene
+Resume / Portfolio &amp; Hub for Eugene.
+
 Created based off of a templated, Edited and Upgraded my Eugene Jr.
-Http://Geneofalltrades.xyz
+http://Geneofalltrades.xyz
